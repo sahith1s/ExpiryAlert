@@ -29,6 +29,11 @@ Expiry Alert is a Streamlit web application designed to streamline invoice manag
 Ensure you have the necessary API keys for Gemini API integration. Additionally, configure the email settings (SMTP server, sender email, etc.) for sending expiry alerts.
 
 
+## Public Access Link
+
+You can access Expiry Alert via the following public link:
+[Expiry Alert Public Access](http://ec2-52-66-151-139.ap-south-1.compute.amazonaws.com:8501/)
+
 ## Contributing
 
 Contributions are welcome! Feel free to open an issue or submit a pull request to suggest improvements or new features.
